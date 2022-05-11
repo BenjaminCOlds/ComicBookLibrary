@@ -1,1 +1,2 @@
 # ComicBookLibrary
+Front-End Web Application that allows the user to store their favorite comic books to a  library and keep it updated. This project Utilises LocalStorage to store the data to the browser. 
