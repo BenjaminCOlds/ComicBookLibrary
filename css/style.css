@@ -42,3 +42,11 @@ footer {
 #footerDiv a:hover {
     opacity: 0.2;
 }
+
+#navAdd {
+    font-size: 1.2rem;
+    margin: auto;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
